@@ -1,8 +1,8 @@
 ---
 date: 2021-06-16T23:48:05.000Z
 layout: post
-title: Rudylog에 오신걸 환영합니다!
-subtitle: '앞으로 저의 개발일지가 될 Rudylog입니다.'
+title: Rudflix에 오신걸 환영합니다!
+subtitle: '앞으로 저의 개발일지가 될 Rudflix입니다.'
 description: >-
   처음 인사드립니다!
 image: >-
