@@ -1,8 +1,7 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Rudezoo
+title: Rudylog | A blog for Rudezoo
+description: This is Rudezoo's blog!
 tags:
   - blog
   - template
