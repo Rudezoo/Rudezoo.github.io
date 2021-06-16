@@ -15,8 +15,6 @@ tags:
   - blog
 author: Rudezoo
 paginate: true
+comments: true
 ---
-
-### 반갑습니다!
-
-저의 첫 블로그 게시물입니다.
+저의 첫 게시물입니다.
