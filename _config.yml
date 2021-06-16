@@ -16,8 +16,8 @@ menu:
     url: /about
   - title: Contact
     url: /contact
-  - title: Feed
-    url: /feed.xml
+  # - title: Feed
+  #   url: /feed.xml
 email: ray9710@gmail.com
 # See: https://disqus.com/
 disqus_username: rudezoo-github-io
