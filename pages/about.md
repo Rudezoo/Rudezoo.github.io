@@ -5,7 +5,7 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="https://scontent-gmp1-1.cdninstagram.com/v/t51.2885-19/s150x150/168983058_475583630311036_8528647827823978672_n.jpg?tp=1&_nc_ht=scontent-gmp1-1.cdninstagram.com&_nc_ohc=a-4mWXF6fAkAX9l-RqK&edm=ABfd0MgBAAAA&ccb=7-4&oh=24ae1e3d8b9a2541c89b12ad63ec0cf8&oe=60D1F5CC&_nc_sid=7bff83">
+<img class="img-rounded" src="/assets/img/profile.jpg" alt="rudezoo" width="200">
 
 # About
 
