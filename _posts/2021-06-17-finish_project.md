@@ -1,7 +1,7 @@
 ---
 date: 2021-06-17 15:56:40
 layout: post
-title: DBSCAN을 활용한 뉴스 빅데이터 처리 기술을 활용한 웹 서비스 InTimes 1차 개발 완료.
+title: 뉴스 빅데이터 처리 기술을 활용한 웹 서비스 InTimes
 subtitle: InTimes 개발 1차 완료!
 description: InTimes는 뉴스 빅데이터에서 중요한 사건들을 자동으로 탐지하고, 사건에 해당하는 뉴스 기사들을 모아 보여주는 웹 사이트 입니다.
 image: https://user-images.githubusercontent.com/18747983/122269482-388f1d00-cf18-11eb-8e97-e8e63464a1ec.png
