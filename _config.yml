@@ -3,11 +3,11 @@ name: Rudflix
 title: Rudflix | A blog for Rudezoo
 description: This is Rudezoo's blog!
 tags:
+  - coding
+  - project
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - life
+
 show_hero: true
 menu:
   - title: Home
@@ -65,7 +65,7 @@ paginate_content:
   debug: false
   collections:
     - posts
-  auto: false
+  auto: true
   separator: "--page-break--"
   permalink: "/:num/"
   seo_canonical: true

@@ -11,7 +11,6 @@ optimized_image: >-
   https://blogmedia.evbstatic.com/wp-content/uploads/wpmulti/sites/8/unsplash-Josh-Earl.jpg
 category: blog
 tags:
-  - welcome
   - blog
 author: Rudezoo
 paginate: true
