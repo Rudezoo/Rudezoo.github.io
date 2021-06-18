@@ -3,4 +3,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://jinyongjeong.github.io/sitemap.xml
+Sitemap: http://rudezoo.github.io/sitemap.xml
