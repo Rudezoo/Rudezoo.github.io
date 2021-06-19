@@ -4,8 +4,8 @@ layout: post
 title: Jekyll, Github blog를 검색엔진에 노출시키기!
 subtitle: google,naver에 내 사이트 검색되게 하기! 
 description:  만들어진 Github site를 google,naver 검색엔진에 노출시키는 방법을 알아보자. 해당 내용은 Jekyll 기준으로 작성되어있다.
-image: http://drive.google.com/uc?export=view&id=1nUQa6xi612oAHmnJ4_DDOocos5NlEKyE
-optimized_image: http://drive.google.com/uc?export=view&id=1nUQa6xi612oAHmnJ4_DDOocos5NlEKyE
+image: /assets/img/post/0620_1/gn.jpg
+optimized_image: /assets/img/post/0620_1/gn.jpg
 category: coding
 tags:
   - coding
@@ -74,7 +74,7 @@ layout: null
 구글은 [Google Search Console](https://search.google.com/search-console/welcome)에서 등록을 실시한다.
 
 1. 처음 사이트에 접속하면 아래와 같은 페이지가 보인다. 빨간색으로 표신된 곳에 페이지 주소를 입력한다.
-![g1](http://drive.google.com/uc?export=view&id=14vZdih2WItlNL7EoKPEDibKHL96hYPd7)
+![g1](/assets/img/post/0620_1/g1.png)
 
 2. 처음에 등록을 하면, 해당 사이트를 인증하기 위한 절차가 존재한다. 나는 블로그 파일에 html파일을 올리는 것을 선택했고, <code>/root</code>에 구글에서 제공하는 **html을 올리고 github에 push**하면 된다.
    
@@ -82,11 +82,11 @@ layout: null
    
 4. 그러면 아래와 같은 화면이 보이고, **사이트맵 url을 입력한후 제출한다.**  
 이때 상태에 어떤 에러가 나지 않고 성공으로 뜨면 된다. 만약 에러가 났다면 해당 부분을 클릭하면 그 사유가 나온다. (ex.url오류가 난다면 url부분에 오류가 났다고 지적해준다.)
-![google](http://drive.google.com/uc?export=view&id=1fe2EC6ZAWRSeaaFTYduf6oQ5QWFDsRaQ)
+![google](/assets/img/post/0620_1/google_sitemap.png)
 
 <br/>
 
-<!-- ![sitemap](http://drive.google.com/uc?export=view&id=1LkNPBd8RWkmThytlY0BsH50dxHLM87PD) -->
+
 
 #### 2. Naver
 
@@ -136,13 +136,15 @@ layout: null
 네이버는  [네이버 웹마스터 도구](https://searchadvisor.naver.com/)에서 등록을 실시한다.
 
 1. 위의 링크에 접속하면 아래와 같은 화면이 보인다. 여기서 웹마스터 도구를 클릭한다.
-![n1](http://drive.google.com/uc?export=view&id=1oR5gQ6pyjjlt31QfDisSsfuDJRvdX_hW)
+![n1](/assets/img/post/0620_1/n1.png)
 2. 클릭하면 구글때와 같이 인증하는 방법이 있고, 구글 처럼 html을 파일을 올리면된다.
-3. 인증이 되면 아래와 같은 화면이 나온다. 메뉴의 요청을 선택한다.
-![n3](http://drive.google.com/uc?export=view&id=1A8LjV7ACP4KeiwsAcoE4bZBb7PSS7vUQ)
+3. 인증이 되면 아래와 같은 화면이 나온다. 사이트를 등록하고 클릭한다.
+![n2](/assets/img/post/0620_1/n2.png)
+4. 클릭하면 아래와 같은 페이지가 나온다.
+![n3](/assets/img/post/0620_1/n3.png)
 4. 해당 메뉴에서 사이트맵과 RSS를 제출한다.
-![naver](http://drive.google.com/uc?export=view&id=1iJRhTsJNrY_S3zFumn6E3qxGRTcoywuW)
-5. 추가적으로 검증 메뉴에서 <code>robots.txt</code>를 검증 후, 제출후 마무리한다.
+![naver](/assets/img/post/0620_1/naver.png)
+1. 추가적으로 검증 메뉴에서 <code>robots.txt</code>를 검증 후, 제출후 마무리한다.
 <br/>
 
 #### 이때, robots.txt 란?
