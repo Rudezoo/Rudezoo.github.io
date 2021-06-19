@@ -14,13 +14,6 @@ tags:
 author: Rudezoo
 ---
 
-<!-- ![gn](http://drive.google.com/uc?export=view&id=1nUQa6xi612oAHmnJ4_DDOocos5NlEKyE) -->
-
-<!-- <pre>
-<code>
-코드입니다.
-</code>
-</pre> -->
 
 ### Github로 만든 내 사이트를 검색엔진에 노출시키기
 ---
@@ -43,7 +36,7 @@ author: Rudezoo
 
  기본적인 코드는 아래와 같다. <U>이때 설정파일에서 사이트 url을 설정을 안해주면 site.url 부분이 나와있지 않아 등록시에 url오류가 날 수 있다. (본인은 이미 경혐했다..) 그러므로 <code>/_config.yml</code>에서 base url을 적는 부분이 있다면 채워놓도록 하자.</U>
 
-~~~~html
+```
 ---
 layout: null
 ---
@@ -73,7 +66,7 @@ layout: null
     </url>
   {% endfor %}
 </urlset>
-~~~~
+```
 
 <br/>
 ##### 그럼 이제 사이트를 등록시켜보자.
@@ -103,7 +96,7 @@ naver의 경우 siteam.xml 뿐만 아닌 feed.xml이 필요하다. 해당 파일
 
  기본적인 코드는 아래와 같다.
  
-~~~~html
+```
 ---
 layout: null
 ---
@@ -134,7 +127,7 @@ layout: null
     {% endfor %}
   </channel>
 </rss>
-~~~~
+```
 <br/>
 
 ##### 그럼 이제 사이트를 등록시켜보자.
@@ -158,16 +151,16 @@ layout: null
 
 기본적인 코드는 아래와 같다. 
 
-~~~~html
+```
 User-agent: *
 Allow: /
 
 Sitemap: /*사이트 주소*/ /sitemap.xml
-~~~~
+```
 
-~~~~
+```
 /*사이트 주소*/ 부분을 본인 사이트 주소로 교체해주면 된다.
-~~~~
+```
 
 <br/>
 
