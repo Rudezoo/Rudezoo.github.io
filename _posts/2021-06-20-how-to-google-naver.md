@@ -42,7 +42,9 @@ layout: null
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {% raw %}
   {% for post in site.posts %}
+  {% endraw %}
     <url>
       <loc>{{ site.url }}{{ post.url }}</loc>
       {% if post.lastmod == null %}
@@ -97,6 +99,7 @@ naver의 경우 siteam.xml 뿐만 아닌 feed.xml이 필요하다. 해당 파일
  기본적인 코드는 아래와 같다.
  
 ~~~xml
+
 ---
 layout: null
 ---
