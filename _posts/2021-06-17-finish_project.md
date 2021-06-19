@@ -70,7 +70,6 @@ LDA의 경우 전체 기사에서 토픽을 추출하는 방식인데 우리는 
 #### 링크 및 참조
 
 >https://github.com/geun9716/KoreanNewsChronicle
->
 >https://github.com/SSU-SOFT/In-Times
 
 
