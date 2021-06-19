@@ -1,7 +1,7 @@
 ---
 date: 2021-06-20 12:35:40
 layout: post
-title: [Jekyll] Github blog를 검색엔진에 노출시키기!
+title: Jekyll, Github blog를 검색엔진에 노출시키기!
 subtitle: google,naver에 내 사이트 검색되게 하기! 
 description:  만들어진 Github site를 google,naver 검색엔진에 노출시키는 방법을 알아보자. 해당 내용은 Jekyll 기준으로 작성되어있다.
 image: http://drive.google.com/uc?export=view&id=1nUQa6xi612oAHmnJ4_DDOocos5NlEKyE
