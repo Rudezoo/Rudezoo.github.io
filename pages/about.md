@@ -8,11 +8,14 @@ permalink: /about/
 <img class="img-rounded" src="/assets/img/profile.jpg" alt="rudezoo" width="200">
 
 # About
-***
+---
+
 ### 프로그래머 김주언입니다.
 
 개발을 진행하면서 기록할 블로그가 필요했고, 개발 일지와 더불어 일상을 공유 할 수 있는 블로그를 제작했습니다!
-***
+
+---
+
 ## Info
 >**이메일**: ray9710@gmail.com  
 >**취미** : 게임, 게임제작, 웹페이지 제작  
