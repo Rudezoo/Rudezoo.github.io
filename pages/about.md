@@ -18,7 +18,7 @@ permalink: /about/
 >**취미** : 게임, 게임제작, 웹페이지 제작  
 >**관심 분야** : Game Programming,Front-end  
 >**사용 가능 언어** : c,c++, python, javascript,(html,css)  
->**사용 가능 엔진** : Unreal Engine4
+>**사용 가능 엔진** : Unreal Engine4  
 >**사용 가능 프레임 워크** : react, antd  
 >**사용 가능 데이베이스** : mysql, oracle  
 >**프로젝트 관리 도구** : git  
